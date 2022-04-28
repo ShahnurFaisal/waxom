@@ -1,0 +1,116 @@
+ 
+/* Extra large devices */
+@media (min-width: 1200px) {}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {}
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 40px;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .banner_overlay {
+        padding: 150px 0px;
+    }
+
+    .banner_text h3 {
+        font-size: 23px;
+        line-height: 23px;
+    }
+    .banner_text h1 {
+        font-size: 28px;
+        font-weight: 800px;
+        font-family: 'Raleway', sans-serif;
+        padding-top: 15px;
+        padding-bottom: 20px;
+        line-height: 25px;
+    }
+    .banner_text p {
+        font-size: 12px;
+        line-height: 18px;
+        padding-bottom: 50px;
+        padding: 0px 0px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .idea_text h3 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    .idea_text p {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 0px 20px;
+    }
+    .purchase_text h3 {
+        font-size: 22px;
+        text-align: center;
+        line-height: 28px;
+    }
+    .purchase_text p {
+        font-size: 15px;
+        text-align: center;
+        line-height: 20px;
+    }
+    .purchase_btn {
+        text-align: center;
+        padding-top: 10px;
+    }
+    .portfolio_btn button {
+        padding: 5px 8px;
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .video_overlay {
+        padding-top: 95px;
+        padding-bottom: 95px;
+    }
+    .video_text p {
+        font-size: 10px;
+        line-height: 18px;
+        padding: 0px 10px;
+    }
+    .counter_item{
+        margin-bottom: 50px;
+    }
+    .mobile_bllw_txt {
+        margin-left: 0px;
+    }
+    #blog {
+        padding: 0px 0px;
+    }
+    .brands_item{
+        text-align: center;
+    }
+    .brands_item img {
+        vertical-align: middle;
+        border-style: none;
+        margin-bottom: 20px;
+    }
+    .brands_overlay {
+        padding: 50px 0px;
+    }
+    .grid_item1{
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
